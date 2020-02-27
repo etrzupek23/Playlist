@@ -1,5 +1,5 @@
 /*
-This program represents a playlist that someone is given on a desert island that adds, removes, and shuffles songs
+This program represents a playlist that adds, removes, and shuffles songs
 Created by Emma on Feb. 23th, 2020
 Intermediate Programming - Block 8
 */
